@@ -4,7 +4,7 @@ No Credits for this Script made it myself :D
 # Requirements
 None just download and enjoy :D
 # Manually
-Download https://github.com/HeyTax/bs_burgershot/tree/main
+Download https://github.com/HeyTax/bs_cameralock/releases/tag/bs_cameralock
 Put it in the [esx] directory
 # Installation
 Add this line to your server.cfg:
